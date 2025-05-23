@@ -1,15 +1,19 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Exploring the Potential of Augmented Reality Technology for Comprehensive and In-Depth Human Anatomy Learning 
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Shahnawaz
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Clone or download this repository to your local machine.
+2. Open Unity Hub and select "Add", then choose the `Source Code` folder inside this project.
+3. Open the project in Unity.
+4. Allow Unity to load and resolve any dependencies.
+5. Press the Play button in Unity to run the project.
+6. To build for Android:
+    - Go to `File > Build Settings`.
+    - Select `Android` and click `Switch Platform`.
+    - Click `Build` to generate the APK file.
+   
 
 ## Checklist:
 1. Final Project Report
