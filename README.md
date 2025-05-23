@@ -5,6 +5,12 @@
 ## Team Members:
 1. Shahnawaz
 
+
+## Download from Play Store
+You can directly download the app from the Google Play Store:  
+[Download on Google Play](https://play.google.com/store/apps/details?id=org.sksiu.aranatomy)
+
+
 ## Steps for Execution:
 1. Clone or download this repository to your local machine.
 2. Open Unity Hub and select "Add", then choose the `Source Code` folder inside this project.
